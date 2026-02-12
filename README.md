@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Merhaba, ben Elif Berra
 
-<!--
-**elifberra-infra/elifberra-infra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Alparslan Türkeş Bilim ve Teknoloji Üniversitesi  
+☁️ Bulut Bilişim Operatörlüğü Bölüm Temsilcisi
 
-Here are some ideas to get you started:
+Bu GitHub profili, sistem yönetimi ve bulut bilişim alanında öğrendiğim konuları düzenli şekilde belgelemek amacıyla oluşturulmuştur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Yaptığım Çalışmalar
+- Windows Server kurulumu ve yapılandırması
+- Active Directory Domain Services kurulumu
+- Kullanıcı ve grup yönetimi
+- Group Policy (GPO) ayarları
+- USB port erişim kısıtlamaları
+- Güvenlik ilkeleri (Security Policies)
+- Event Viewer log kayıtlarının incelenmesi
+
+---
+
+## 💻 Çalışma Ortamı
+- Windows Server 2019 (VirtualBox sanal makine)
+- Windows 10 istemci bilgisayar
+- Temel ağ yapılandırmaları
+
+---
+
+## 🎯 Amacım
+Sistem yöneticiliği ve bulut teknolojileri alanında kendimi geliştirerek edindiğim bilgileri uygulamalı olarak öğrenmek ve tüm lab çalışmalarımı GitHub üzerinden dokümante etmektir.
